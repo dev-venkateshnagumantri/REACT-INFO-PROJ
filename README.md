@@ -43,7 +43,7 @@ The Hooks used in this repo are:
 Hooks must be called inside and at top of the functional Component.
 
 
-### what is Vite and React Router ?
+### What is Vite, React Router and Redux ?
 
 **Vite:** The modern, fast build tool recommended for setting up new React projects.
 **React Router:** The standard library for adding navigation (multiple pages) to a single-page app.
