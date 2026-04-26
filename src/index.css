@@ -1,0 +1,12 @@
+.box{
+    border: 5px solid black ;
+    padding: 25px 25px;
+}
+
+.existingFruits{
+    color: red;
+}
+
+.newFruit{
+    color: green;
+}
