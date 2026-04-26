@@ -19,12 +19,26 @@
 Hooks are functions that let you "hook into" React features from functional components without writing classes.
 
 The Hooks used in this repo are:
-
-**Hook**	        **Purpose**
-useState	Manages local state in a component.
-useEffect	Handles side effects like data fetching, subscriptions, or manual DOM updates.
-useContext	Shares data globally across the component tree, avoiding "prop drilling".
-useRef	    Creates a direct reference to a DOM element or persists values between renders.
+<table align="center">
+  <tr>
+    <th>Hook</th>
+    <th>Purpose</th>
+  </tr>
+  <tr>
+    <td>useState</td>
+    <td>Manages local state in a component.</td>
+  </tr>
+  <tr>
+    <td>useEffect</td>
+    <td>Handles side effects like data fetching, subscriptions, or manual DOM updates.</td>
+  </tr>
+    <td>useContext</td>
+    <td>Shares data globally across the component tree, avoiding "prop drilling".</td>
+  </tr>
+    <td>useRef</td>
+    <td>Creates a direct reference to a DOM element or persists values between renders.</td>
+  </tr>
+</table> 
 
 Hooks must be called inside and at top of the functional Component.
 
